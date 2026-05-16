@@ -40,9 +40,9 @@ Front-end Developer and UI Designer focused on beautiful and modern interfaces.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=nicolelimam&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelimam&layout=compact&theme=tokyonight)
 
 ---
 
@@ -50,4 +50,4 @@ Front-end Developer and UI Designer focused on beautiful and modern interfaces.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicole-de-lima-munis-3a8728250)
 
-[![Email](mailto:nicolelimamunis2004@outlook.com)](mailto:nicolelimamunis2004@outlook.com)
+[![Email](https://img.shields.io/badge/Email-nicolelimamunis2004%40outlook.com-2D2D2D?style=for-the-badge&logo=gmail)](mailto:nicolelimamunis2004@outlook.com)
