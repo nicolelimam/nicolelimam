@@ -1,53 +1,80 @@
-# Hi, I'm Nick! ✨☕
+<div align="center">
 
-Front-end Developer and UI Designer focused on beautiful and modern interfaces.
+# hi, i'm nick 👋🏻
+**front-end developer · ui designer · coffee addict ☕**
+
+</div>
+
+<div align="center">
+
+· · ✿ · ·
+
+</div>
+
+> passionate about crafting beautiful interfaces — where code meets design. currently expanding into fullstack dev while never letting go of pixel-perfect details. ✨
 
 ---
 
-## 🌸 About Me
+## 🌸 about me
 
-- 💻 Frontend Developer
-- 🎨 Passionate about UI/UX
-- 🌱 Currently improving my fullstack skills
+- 💻 front-end developer building with react & typescript
+- 🎨 ui/ux enthusiast — figma is basically my second home
+- 🌱 leveling up my fullstack skills (node + nest)
+- ✨ i believe good design should feel effortless
 
 ---
 
-## ✨ Tech Stack
+## 🛠 tech stack
 
-### 💻 Frontend
+**frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2D2D2D?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-2D2D2D?style=for-the-badge&logo=react)
 
-### 🐻 Styling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2D2D2D?style=for-the-badge&logo=tailwindcss)
-![SASS](https://img.shields.io/badge/SASS-2D2D2D?style=for-the-badge&logo=sass)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-2D2D2D?style=for-the-badge&logo=daisyui)
+**styling**
 
-### ⚙️ Backend & Tools
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-48304a?style=for-the-badge&logo=tailwindcss&logoColor=f4b8d4)
+![SASS](https://img.shields.io/badge/SASS-48304a?style=for-the-badge&logo=sass&logoColor=f4b8d4)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-48304a?style=for-the-badge&logo=daisyui&logoColor=f4b8d4)
+
+**backend & tools**
+
 ![NodeJS](https://img.shields.io/badge/NodeJS-2D2D2D?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-2D2D2D?style=for-the-badge&logo=nestjs)
 ![Docker](https://img.shields.io/badge/Docker-2D2D2D?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git)
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-2D2D2D?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-2D2D2D?style=for-the-badge&logo=adobephotoshop)
+**design**
+
+![Figma](https://img.shields.io/badge/Figma-48304a?style=for-the-badge&logo=figma&logoColor=f4b8d4)
+![Photoshop](https://img.shields.io/badge/Photoshop-48304a?style=for-the-badge&logo=adobephotoshop&logoColor=f4b8d4)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 github stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nicolelimam&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelimam&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=nicolelimam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a7d4&icon_color=e8a0c4&text_color=8b949e)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelimam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a7d4&text_color=8b949e)
+
+</div>
 
 ---
 
-## 🌐 Contact
+## 🌐 let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicole-de-lima-munis-3a8728250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-48304a?style=for-the-badge&logo=linkedin&logoColor=f4b8d4)](https://www.linkedin.com/in/nicole-de-lima-munis-3a8728250)
+[![Email](https://img.shields.io/badge/Email-48304a?style=for-the-badge&logo=gmail&logoColor=f4b8d4)](mailto:nicolelimamunis2004@outlook.com)
 
-[![Email](https://img.shields.io/badge/Email-nicolelimamunis2004%40outlook.com-2D2D2D?style=for-the-badge&logo=gmail)](mailto:nicolelimamunis2004@outlook.com)
+<div align="center">
+
+· · ✿ · ·
+
+*made with 🩷 and too much coffee*
+
+</div>
